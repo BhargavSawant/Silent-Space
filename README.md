@@ -97,7 +97,3 @@ Each spot is saved locally using `SharedPreferences` in serialized JSON format.
 ## License
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute this software as per the terms of the license.
-
----
-
-Let me know if you would like me to include a sample screenshot section or contribute instructions.
